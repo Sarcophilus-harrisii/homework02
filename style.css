@@ -46,3 +46,13 @@ h1 {
     white-space: pre;
     font-size: 1.4rem;
 }
+
+.button, .button a {
+    margin: 0 auto;
+    width: 15%;
+    height: 10%;
+    background-color: #fff51b;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
