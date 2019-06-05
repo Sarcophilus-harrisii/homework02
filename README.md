@@ -9,4 +9,4 @@ create a page according to provided design
 
 ## Additional
 Create hyperlink and style it accordingly
-![box](http://prntscr.com/nxu9co)
+![box](https://raw.githubusercontent.com/garevna/wiki/master/media/hw-02-1.gif)
