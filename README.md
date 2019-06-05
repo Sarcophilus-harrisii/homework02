@@ -1,2 +1,2 @@
 # homework02
-Second homework
+(link)[https://github.com/garevna/wiki/wiki/hw-02]
