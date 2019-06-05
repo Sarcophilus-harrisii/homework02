@@ -1,0 +1,48 @@
+html {
+    font-size: 10px;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+    color: #24292e;
+    font-size: 1.6rem;
+}
+
+h1 {
+    border-bottom: #dfe2e5 solid 1px;
+    padding-bottom: 15px;
+}
+
+.h2 {
+    border-bottom: #dfe2e5 solid 1px;
+    padding-bottom: 12px;
+}
+
+.container01 {
+    margin: 0 auto;
+    padding: 5px 12px 22px 15px;
+    width: 710px;
+    height: 100%;
+    border: #dfe2e5 solid 1px;
+}
+.container02 {
+    padding: 11px;
+    border: #dfe2e5 solid 1px;
+}
+
+.section01 p:nth-child(2) {
+    font-style: italic;
+}
+
+.code01 {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+    font-size: 1.4rem; /*In design font-size is 12 px, still it looks much smaller so 1,4rem*/
+    padding: 16px;
+}
+
+.code02 {
+    font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+    white-space: pre;
+    font-size: 1.4rem;
+}
