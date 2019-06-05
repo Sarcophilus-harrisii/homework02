@@ -31,6 +31,11 @@ h1 {
     border: #dfe2e5 solid 1px;
 }
 
+.container03 {
+    margin: 0 auto;
+    width: 15%;
+}
+
 .section01 p:nth-child(2) {
     font-style: italic;
 }
@@ -48,11 +53,58 @@ h1 {
 }
 
 .button, .button a {
-    margin: 0 auto;
-    width: 15%;
+    width: 10%;
     height: 10%;
     background-color: #fff51b;
+    font-weight: bold;
     text-decoration: none;
     text-transform: uppercase;
     text-align: center;
+    margin: 40px auto 0;
+}
+/*CSS for first and second additional tasks*/
+.cube {
+    box-sizing: border-box;
+    width: 82px;
+    height: 82px;
+    padding: 33px 0;
+    border: #000 2px solid;
+    background-color: #fff;
+    margin: 3px;
+    display: inline-block;
+}
+.circle {
+    width: 16px;
+    height: 16px;
+    margin: 0 auto;
+    border-radius: 50%;
+    background-color: #000;
+    display: block;
+}
+
+.cube:hover {
+    background-color: #fdfd00;
+}
+
+.circle:hover {
+    background-color: #0000ff;
+}
+
+.english {
+    display: inline-block;
+    width: 158px;
+    height: 110px;
+    border-radius: 20%;
+    box-shadow: 3px 3px 5px 3px rgba(0,0,0,0.75);
+}
+
+.english:hover {
+    zoom: 150%;
+    box-shadow: inset 3px 3px 5px 3px rgba(0,0,0,0.75);
+}
+
+.english > img {
+    display: block;
+    margin: 0 auto;
+    padding: 15px;
 }
